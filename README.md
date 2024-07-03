@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! I'm Gouas Mohammed el Hadi, a passionate mobile developer with a background in computer science. I am a student at the University of Kasdi Merbah, where I honed my skills and developed a deep interest in mobile application development.
+Hello! I'm Gouas Mohammed el Hadi, a passionate mobile developer currently studying computer science at the University of Kasdi Merbah. I am continuously honing my skills and developing a deep interest in mobile application development.
 
 ## Education
 
