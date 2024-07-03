@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello there👋,i'm Gouas Mohammed el Hadi
 
-<!--
-**hadigouas/hadigouas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile Developer**
 
-Here are some ideas to get you started:
+[Email: mohammedelhadigouas@gmail.com](mailto:mohammedelhadigouas@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Hello! I'm Gouas Mohammed el Hadi, a passionate mobile developer with a background in computer science. I am a student at the University of Kasdi Merbah, where I honed my skills and developed a deep interest in mobile application development.
+
+## Education
+
+**University of Kasdi Merbah**
+- Bachelor's Degree in Computer Science
+
+## Skills
+
+- **Programming Languages:** Java,Dart,c++
+- **Mobile Development:** Android, iOS, Flutter
+- **Tools & Technologies:** Git, Firebase, RESTful APIs, SQLite, 
+- **Other Skills:** Problem-solving, Team collaboration
+
+
+## Contact
+
+Feel free to reach out to me via email at [mohammedelhadigouas@gmail.com](mailto:mohammedelhadigouas@gmail.com) for any inquiries or collaboration opportunities.
+
+---
+
+Thank you for visiting my profile!
