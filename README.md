@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Gouas Mohammed el Hadi, a passionate mobile developer currently studying computer science at the University of Kasdi Merbah. I am continuously honing my skills and developing a deep interest in mobile application development.
+Hello! I'm Gouas Mohammed el Hadi, a passionate software developer currently studying computer science at the University of Kasdi Merbah. I am continuously honing my skills and developing a deep interest in mobile application development.
 
 ## Education
 
@@ -13,10 +13,11 @@ Hello! I'm Gouas Mohammed el Hadi, a passionate mobile developer currently study
 
 ## Skills
 
-- **Programming Languages:** Java,Dart,c++
+- **Programming Languages:** Java,Dart,c++,python
 - **Mobile Development:** Android, iOS, Flutter
-- **Tools & Technologies:** Git, Firebase, RESTful APIs, SQLite, 
-- **Other Skills:** Problem-solving, Team collaboration
+- **backend Development:** python,PostgreSQL
+- **Tools & Technologies:** Git, Firebase, RESTful APIs, SQLite,supabase 
+- **Other Skills:** Problem-solving, Team Collaboration
 
 
 ## 🌐 Socials:
@@ -35,7 +36,7 @@ Hello! I'm Gouas Mohammed el Hadi, a passionate mobile developer currently study
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Contact
 
-Feel free to reach out to me via email at mohammedelhadigouas@gmail.com for any inquiries or collaboration opportunities.
+Feel free to reach out to me via email at hadigouas8@gmail.com for any inquiries or collaboration opportunities.
 
 ---
 
